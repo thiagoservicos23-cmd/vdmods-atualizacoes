@@ -1,0 +1,10 @@
+packages/
+*.exe
+*.zip
+*.env
+.env
+*.sqlite*
+__pycache__/
+*firebase-adminsdk*.json
+firebase-vapor.json
+firebase-vdmods.json
